@@ -48,7 +48,7 @@
 ## Help:
 ##   help    - Display this help message
 
-SHELL := /bin/sh
+SHELL := /bin/bash
 
 MODE ?= dev
 SERVICE ?=
